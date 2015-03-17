@@ -7,7 +7,7 @@ NOTE: CDH is not running within mesos but is just available from Mesos slave.
 ###Requirements
 * Virtualbox (brew cask install virtualbox)
 * Docker (brew install boot2docker)
-* Fig (brew install fig)
+* Fig (brew install docker-compose)
 
 ###Intalled services
 * Zookeeper
